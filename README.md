@@ -2,11 +2,7 @@
 <h1 align="center">Hi 👋, I'm Arielle!</h1>
 <h3 align="center">A passionate frontend developer originally from Houston,Tx but currently residing in Nashville,Tn.</h3>
 
-- 🔭 I’m currently working on **My frontend Capstone Project**
-
-- 🌱 I’m currently learning **HTML, CSS, and REACT JS**
-
-- 💬 Ask me about **react**
+- 🌱 I am skilled in **HTML, CSS, and REACT JS, - 💬 Ask me about **react**
 
 - 📫 How to reach me **arielledaron69@gmail.com**
 
